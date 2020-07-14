@@ -8,6 +8,7 @@ LanguageDictionary.TryAdd(new KeyValuePair<string, string>("English", "Website")
 LanguageDictionary.TryAdd(new KeyValuePair<string, string>("English", "Made With"), "Made With");
 LanguageDictionary.TryAdd(new KeyValuePair<string, string>("English", "Discord.Net"), "Discord.Net");
 LanguageDictionary.TryAdd(new KeyValuePair<string, string>("English", "<Day> days, <Hour> hours, <Minute> minutes, <Second> seconds"), "<Day> days, <Hour> hours, <Minute> minutes, <Second> seconds");
+LanguageDictionary.TryAdd(new KeyValuePair<string, string>("English", "Uptime <Uptime>"), "Uptime <Uptime>");
 LanguageDictionary.TryAdd(new KeyValuePair<string, string>("English", "Shard <Shard>"), "Shard <Shard>");
 LanguageDictionary.TryAdd(new KeyValuePair<string, string>("English", "Open Database Connections: <Connections>"), "Open Database Connections: <Connections>");
 LanguageDictionary.TryAdd(new KeyValuePair<string, string>("English", "**API Latency** <APILatency>ms\n**Bot Latency** <BotLatency>ms"), "**API Latency** <APILatency>ms\n**Bot Latency** <BotLatency>ms");
