@@ -1,0 +1,17 @@
+LanguageDictionary.TryAdd(new KeyValuePair<string, string>("English", "Bets"), "Bets");
+LanguageDictionary.TryAdd(new KeyValuePair<string, string>("English", "You need to ask Rem a question for a prediction"), "You need to ask Rem a question for a prediction");
+LanguageDictionary.TryAdd(new KeyValuePair<string, string>("English", "You need the `Manage Messages` permission on this channel to use this command"), "You need the `Manage Messages` permission on this channel to use this command");
+LanguageDictionary.TryAdd(new KeyValuePair<string, string>("English", "Please give me a message to repeat"), "Please give me a message to repeat");
+LanguageDictionary.TryAdd(new KeyValuePair<string, string>("English", "Weapons"), "Weapons");
+LanguageDictionary.TryAdd(new KeyValuePair<string, string>("English", "Crates"), "Crates");
+LanguageDictionary.TryAdd(new KeyValuePair<string, string>("English", "Food"), "Food");
+LanguageDictionary.TryAdd(new KeyValuePair<string, string>("English", "<Weapon> Owned: <Amount> Uses: <Uses>"), "<Weapon> Owned: <Amount> Uses: <Uses>");
+LanguageDictionary.TryAdd(new KeyValuePair<string, string>("English", "<Type> Owned: <Amount>"), "<Type> Owned: <Amount>");
+LanguageDictionary.TryAdd(new KeyValuePair<string, string>("English", "This weapon is a gun, not a knife"), "This weapon is a gun, not a knife");
+LanguageDictionary.TryAdd(new KeyValuePair<string, string>("English", "Common"), "Common");
+LanguageDictionary.TryAdd(new KeyValuePair<string, string>("English", "Uncommon"), "Uncommon");
+LanguageDictionary.TryAdd(new KeyValuePair<string, string>("English", "Rare"), "Rare");
+LanguageDictionary.TryAdd(new KeyValuePair<string, string>("English", "Legendary"), "Legendary");
+LanguageDictionary.TryAdd(new KeyValuePair<string, string>("English", "Mythic"), "Mythic");
+LanguageDictionary.TryAdd(new KeyValuePair<string, string>("English", "Gun"), "Gun");
+LanguageDictionary.TryAdd(new KeyValuePair<string, string>("English", "Knife"), "Knife");
