@@ -21,8 +21,8 @@ LanguageDictionary.TryAdd(new KeyValuePair<string, string>("English", "Please gi
 LanguageDictionary.TryAdd(new KeyValuePair<string, string>("English", "Please give me a valid user (User cannot be a bot)"), "Please give me a valid user (User cannot be a bot)");
 LanguageDictionary.TryAdd(new KeyValuePair<string, string>("English", "Failed to parse balance"), "Failed to parse balance");
 LanguageDictionary.TryAdd(new KeyValuePair<string, string>("English", "You can not add more than <Bal>"), "You can not add more than <Bal>");
-LanguageDictionary.TryAdd(new KeyValuePair<string, string>("English", "<User> just gave <Bal> to <User>"), "<User> just gave <Bal> to <User>");
-LanguageDictionary.TryAdd(new KeyValuePair<string, string>("English", "<User> just gave <Bal> to <User> for <Reason>"), "<User> just gave <Bal> to <User> for <Reason>");
+LanguageDictionary.TryAdd(new KeyValuePair<string, string>("English", "<Author> just gave <Bal> to <User>"), "<User> just gave <Bal> to <User>");
+LanguageDictionary.TryAdd(new KeyValuePair<string, string>("English", "<Author> just gave <Bal> to <User> for <Reason>"), "<User> just gave <Bal> to <User> for <Reason>");
 LanguageDictionary.TryAdd(new KeyValuePair<string, string>("English", "Amount must be a number or equal 'all'"), "Amount must be a number or equal 'all'");
 LanguageDictionary.TryAdd(new KeyValuePair<string, string>("English", "The minimum gamble is <Amount>"), "The minimum gamble is <Amount>");
 LanguageDictionary.TryAdd(new KeyValuePair<string, string>("English", "You do not have enough to gamble <Amount>, You only have <Bal>"), "You do not have enough to gamble <Amount>, You only have <Bal>");
