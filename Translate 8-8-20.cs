@@ -69,4 +69,3 @@ LanguageDictionary.TryAdd(new KeyValuePair<string, string>("English", "Get the s
 LanguageDictionary.TryAdd(new KeyValuePair<string, string>("English", "Gets an image of a lewd neko <Prefix>Nekolewd"), "Gets an image of a lewd neko <Prefix>Nekolewd");
 LanguageDictionary.TryAdd(new KeyValuePair<string, string>("English", "Sends a lewd image of Rem <Prefix>Remlewd"), "Sends a lewd image of Rem <Prefix>Remlewd");
 LanguageDictionary.TryAdd(new KeyValuePair<string, string>("English", "Sends a picture of anime thighs <Prefix>Thighs"), "Sends a picture of anime thighs <Prefix>Thighs");
-LanguageDictionary.TryAdd(new KeyValuePair<string, string>("English", ""), "");
